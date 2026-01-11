@@ -21,7 +21,7 @@ const CoreValues = () => {
           {/* FULL WIDTH IMAGE */}
           <div className="relative h-[400px] sm:h-[500px] lg:h-[600px] w-full rounded-lg overflow-hidden shadow-lg">
             <Image
-              src="/images/1.jpg"
+              src="/images/core_values.jpg"
               alt="Our Core Values"
               fill
               className="object-cover"

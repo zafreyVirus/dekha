@@ -15,13 +15,13 @@ const page = () => {
 <PageHero
   title="About Us"
   subtitle="Building sustainable HR solutions for organizations in Malawi"
-  imageSrc="/images/1.jpg"
+  imageSrc="/images/2.jpg"
 />
 </>
 
             <div className='flex gap-10 flex-col md:flex-row items-center justify-between mt-10 md:p-20 p-10'>
                 <div className='rounded-md overflow:hidden mb-5'>
-                    <Image src={'/images/1.jpg'} alt='What you need to know about our org.' height={400} width={600} className='rounded-md' />
+                    <Image src={'/images/3.jpg'} alt='What you need to know about our org.' height={400} width={600} className='rounded-md' />
                 </div>
                 <div className='flex md:w-[50%] flex-col mb-10'>
                     <h1 className='text-4xl text-deepblue font-bold mb-10' >What You need to know about Us</h1>

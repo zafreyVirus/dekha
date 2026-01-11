@@ -6,35 +6,47 @@ const teamMembers = [
  
   {
     id: 1,
-    name: 'Chrissy Banda',
-    role: 'Director',
-    image: '/images/1.jpg',
-    description: 'The founder and director of AC pavers.',
+    name: 'Jane Banda',
+    role: 'CEO',
+    image: '/images/Team/ceo.jpg',
+    description: 'The founder and director of Dekha Consultancy.',
     linkedin: 'https://linkedin.com',
     twitter: 'https://twitter.com',
-    email: 'chrissy@example.com'
+    email: 'jane@example.com'
   },
   {
     id: 2,
-    name: 'Alex Banda',
-    role: 'Civil Engineer',
-    image: '/images/1.jpg',
-    description: 'The mind behind AC pavers best services.',
+    name: 'John Dekha',
+    role: 'Director',
+    image: '/images/Team/director.jpg',
+    description: 'The mind behind Dekha consultancy best services.',
     linkedin: 'https://linkedin.com',
     twitter: 'https://twitter.com',
-    email: 'alexbanda@example.com'
+    email: 'johndekha@example.com'
   },
  
   {
     id: 3,
-    name: 'Vincent Banda',
-    role: 'Marketing Director',
-    image: '/images/1.jpg',
+    name: 'Peter Banda',
+    role: 'Accountant',
+    image: '/images/Team/accountant.jpg',
     description: 'Empathetic researcher uncovering deep user insights.',
     linkedin: 'https://linkedin.com',
     twitter: 'https://twitter.com',
     email: 'vinbanda@example.com'
-  }
+  },
+
+   
+  // {
+  //   id: 4,
+  //   name: 'Paul Msusa',
+  //   role: 'ICT Director',
+  //   image: '/images/Team/ict.jpg',
+  //   description: 'Master mind behind dekha consultancy improved online presence.',
+  //   linkedin: 'https://linkedin.com',
+  //   twitter: 'https://twitter.com',
+  //   email: 'paulmsusa@example.com'
+  // }
 ];
 
 interface TeamMemberProps {

@@ -23,7 +23,7 @@ function About() {
                         {/* Image Wrapper */}
                         <div className="rounded-lg overflow-hidden shadow-lg">
                             <Image
-                                src="/images/1.jpg"
+                                src="/images/about.jpg"
                                 alt="About Us"
                                 width={600}
                                 height={400}
